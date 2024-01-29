@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageApplication</string>
+    <string name="record_button">RECORD</string>
+    <string name="capture_button">CAPTURE</string>
+</resources>
